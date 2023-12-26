@@ -9,7 +9,7 @@ ii) Handling of player turns and win or draw conditions.
 
  Future Improvements:
 
-• Adding Dark mode and Light mode and sound effects.
+• Adding Dark mode and Light mode effects.
 
 • Adding sound and background music effects.
 
